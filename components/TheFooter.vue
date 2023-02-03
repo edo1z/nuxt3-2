@@ -1,5 +1,3 @@
 <template>
-  <div>
-    TheFooter
-  </div>
+  <div>TheFooter</div>
 </template>

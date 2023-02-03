@@ -1,3 +1,1 @@
-<template>
-  TheHeader
-</template>
+<template>TheHeader</template>
